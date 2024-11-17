@@ -4,7 +4,7 @@
 Вивчення Git (готово до перевірки) - https://github.com/NightDAsh1505/Git
 
 
-Вивчення Docker (НЕ готово)
+Вивчення Docker (готово до перевірки) - https://github.com/NightDAsh1505/Docker
 
 
 Реалізація перетворень між системами координат (НЕ готово)
