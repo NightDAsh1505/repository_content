@@ -16,7 +16,7 @@ Radar (готово до перевірки) - https://github.com/NightDAsh1505/
 GPS (готово до перевірки) - https://github.com/NightDAsh1505/gps
 
 
-LORAN (готово до перевірки) - 
+LORAN (готово до перевірки) - https://github.com/NightDAsh1505/LORAN
 
 
 Kalman (готово до перевірки) - 
