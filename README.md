@@ -7,4 +7,10 @@
 Вивчення Docker (готово до перевірки) - https://github.com/NightDAsh1505/Docker
 
 
-Реалізація перетворень між системами координат (НЕ готово) - https://github.com/NightDAsh1505/coordinates
+Реалізація перетворень між системами координат (готово до перевірки) - https://github.com/NightDAsh1505/coordinates
+
+
+Radar (готово до перевірки) - 
+
+
+GPS (готово до перевірки) - 
