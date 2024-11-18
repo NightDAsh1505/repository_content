@@ -19,4 +19,4 @@ GPS (готово до перевірки) - https://github.com/NightDAsh1505/gp
 LORAN (готово до перевірки) - https://github.com/NightDAsh1505/LORAN
 
 
-Kalman (готово до перевірки) - 
+Kalman (готово до перевірки) - https://github.com/NightDAsh1505/Kalman
