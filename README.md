@@ -13,4 +13,10 @@
 Radar (готово до перевірки) - https://github.com/NightDAsh1505/Radar
 
 
-GPS (готово до перевірки) - 
+GPS (готово до перевірки) - https://github.com/NightDAsh1505/gps
+
+
+LORAN (готово до перевірки) - 
+
+
+Kalman (готово до перевірки) - 
